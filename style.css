@@ -46,26 +46,30 @@ header {
 .flex-parent {
     /* border: 2px solid red; */
     display: flex;
-    justify-content: space-between;
+    justify-content:center;
     margin: 50px 200px;
     height: 500px;
-
-    gap: 33.3%;
+align-items: center;
+    gap: 100px
     /* border-radius: 10px; */
 }
 
 .card_a {
-    padding: 50px 50px;
-    height: 30px;
-    width: 30px;
+    /* padding: 50px 50px; */
+    height: 500px;
+    width: 500px;
 }
+/* .ola{
+background-color: #ffffff;
+border-radius: 10px;
+} */
 
 .card_b {
     /* border: 6px solid green; */
     /* background-color: black; */
     /* height: 20px;
     width: 200px; */
-    padding-right: 150px;
+    /* padding-right: 150px; */
 }
 
 
