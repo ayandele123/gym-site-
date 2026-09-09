@@ -1,0 +1,100 @@
+body {
+    background-color: #231C33;
+}
+
+header {
+    background-color: white;
+    margin: 10px 10px;
+    border-radius: 10px;
+    /* justify-content: space-between;
+    display: flex;
+    align-items: center; */
+    /* border: 2px solid red; */
+    /* padding:. 20px 45px; */
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    /* border: 2px solid red; */
+
+}
+
+.navbar a {
+    /* border: 2px solid red; */
+
+}
+
+.nav_links {
+    justify-content: space-evenly;
+    /* border: 2px solid red; */
+    padding: 10px 10px;
+
+    display: flex;
+}
+
+.red {
+    border: 2px solid red;
+
+}
+
+.nav_links a {
+    padding: 0px 20px;
+}
+
+.flex-parent {
+    /* border: 2px solid red; */
+    display: flex;
+    justify-content: space-between;
+    margin: 50px 200px;
+    height: 500px;
+
+    gap: 33.3%;
+    /* border-radius: 10px; */
+}
+
+.card_a {
+    padding: 50px 50px;
+    height: 30px;
+    width: 30px;
+}
+
+.card_b {
+    /* border: 6px solid green; */
+    /* background-color: black; */
+    /* height: 20px;
+    width: 200px; */
+    padding-right: 150px;
+}
+
+
+p {
+    color: white;
+}
+
+h1 {
+    color: black;
+}
+
+.judah {
+    background-color: #ffffff;
+    padding: 50px 300px;
+
+}
+
+p {
+    color: black;
+}
+.olasan{
+    text-decoration: none;
+}
+
+.olasan:hover{
+    text-decoration: underline;
+    color: black;
+    text-decoration-color:black;
+}
+.pccc{
+    text-decoration: none;
+}
